@@ -1,0 +1,7 @@
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\bin\Debug\Exemple_plusieurs_Interfaces.exe.config
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\bin\Debug\Exemple_plusieurs_Interfaces.exe
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\bin\Debug\Exemple_plusieurs_Interfaces.pdb
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\obj\Debug\Exemple_plusieurs_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\obj\Debug\Exemple_plusieurs_Interfaces.exe
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\obj\Debug\Exemple_plusieurs_Interfaces.pdb
+C:\Users\18196\source\repos\Exemple_plusieurs_Interfaces\Exemple_plusieurs_Interfaces\obj\Debug\Exemple_plusieurs_Interfaces.csproj.AssemblyReference.cache
